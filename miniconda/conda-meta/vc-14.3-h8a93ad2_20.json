@@ -1,0 +1,34 @@
+{
+  "build": "h8a93ad2_20",
+  "build_number": 20,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "vc14_runtime >=14.40.33810"
+  ],
+  "extracted_package_dir": "C:\\Users\\onerito\\miniconda3\\pkgs\\vc-14.3-h8a93ad2_20",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "vc-14.3-h8a93ad2_20.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\onerito\\miniconda3\\pkgs\\vc-14.3-h8a93ad2_20",
+    "type": 1
+  },
+  "md5": "8558f367e1d7700554f7cdb823c46faf",
+  "name": "vc",
+  "package_tarball_full_path": "C:\\Users\\onerito\\miniconda3\\pkgs\\vc-14.3-h8a93ad2_20.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "23ac5feb15a9adf3ab2b8c4dcd63650f8b7ae860c5ceb073e49cf71d203eddef",
+  "size": 17391,
+  "subdir": "win-64",
+  "timestamp": 1717709040000,
+  "track_features": "vc14",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/vc-14.3-h8a93ad2_20.conda",
+  "version": "14.3"
+}
